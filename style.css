@@ -1,9 +1,14 @@
 h1{
     color: chartreuse;
     background-color: antiquewhite;
+    margin: 20px;
 
 }
 p{
     color: darkorange;
     background-color: aliceblue;
+    margin-top: 10px;
+}
+img{
+    margin: 10px;
 }
